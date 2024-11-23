@@ -47,10 +47,10 @@ const Header = ({ dark }) => {
         <div className="button">
           <a
             className="text-main-color font-bold font-dm inline-block rounded-[18px] px-[40px] pt-[17px] pb-[18px] transition-all duration-300"
-            href="https://themeforest.net/user/marketify/portfolio"
+            href="https://wa.link/81vouy"
             target="_blank"
           >
-            Purchase Now
+            WhatsApp
           </a>
         </div>
       </div>

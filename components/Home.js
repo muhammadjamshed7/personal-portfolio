@@ -27,6 +27,7 @@ const Home = ({ dark }) => {
               </p>
             </div>
             <div className="buttons flex items-center">
+         
               <div className="orido_tm_boxed_button">
                 <a className="anchor" href="#contact">
                   Say Hello{" "}
@@ -96,10 +97,10 @@ const Home = ({ dark }) => {
         </a>
       </div>
       <div className="avatar absolute w-1/2 right-0 bottom-[-8px]">
-        <div className="img relative inline-block">
+      <div className="img relative inline-block rounded-lg">
           <img
-            className="max-w-[700px] max-h-[760px]"
-            src={`assets/img/hero/${dark ? "2" : "1"}.jpg`}
+            className="max-w-[700px] max-h-[760px] "
+            src="assets/img/hero/12.jpg" 
             alt
           />
           <div className="video_button">

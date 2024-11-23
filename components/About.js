@@ -24,7 +24,7 @@ const About = () => {
               <img
                 className="svg w-[80px] h-[80px] text-transparent"
                 src="assets/img/svg/element.svg"
-                alt
+                alt=""
               />
             </span>
             <div className="orido_tm_main_title w-full float-left mb-[30px]">
@@ -34,23 +34,22 @@ const About = () => {
             </div>
             <div className="text w-full float-left mb-[50px]">
               <p className="text-[rgba(255,255,255,.7)] font-light leading-[32px]">
-                With 1 years experience as a professional Web developer, I have
-                acquired the skills and knowledge necessary to make your project
-                a success. I enjoy every step of the implementation process, from
-                discussion and collaboration with UI Designer.
+                With 1 year's experience as a professional Web developer, I
+                have acquired the skills and knowledge necessary to make your
+                project a success. I enjoy every step of the implementation
+                process, from discussion and collaboration with UI Designer.
               </p>
             </div>
             <div className="short w-full float-left flex items-center">
               <div className="orido_tm_boxed_button">
-                <a href="../../../../../../../Desktop/Resume/MUHMMAD JAMSHED RESUME.docx.pdf" download>
-                  Download CV{"../../../../../../../Desktop/Resume/MUHMMAD JAMSHED RESUME.docx.pdf"}
-                  <img className="svg" src="../../../../../../../Desktop/jams" alt />
+                <a href="/jamshedresume.pdf" download>
+                  Download CV
                 </a>
               </div>
               <img
                 className="max-w-[200px] max-h-[200px] ml-[50px]"
                 src="assets/img/signature.png"
-                alt
+                alt=""
               />
             </div>
           </div>
@@ -59,4 +58,5 @@ const About = () => {
     </div>
   );
 };
+
 export default About;

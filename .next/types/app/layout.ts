@@ -1,4 +1,4 @@
-// File: /home/jimi/Downloads/final download/mixdata/portfolio plus next js/orido-tailwind-css-personal-portfolio-react-next-2024-03-13-03-07-17-utc/orido/app/layout.js
+// File: /home/jimi/Desktop/portfolio/orido/app/layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
