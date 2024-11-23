@@ -55,7 +55,7 @@ const Projects = () => {
                   </div>
                   <a
                     className="orido_tm_full_link absolute inset-0 z-[5] popup-youtube"
-                    href="https://www.youtube.com/watch?v=7e90gBu4pas"
+                    href="#"
                   />
                 </div>
               </SwiperSlide>
@@ -84,7 +84,7 @@ const Projects = () => {
                   </div>
                   <a
                     className="orido_tm_full_link absolute inset-0 z-[5] popup-vimeo"
-                    href="https://vimeo.com/337293658"
+                    href="#"
                   />
                 </div>
               </SwiperSlide>
@@ -113,7 +113,7 @@ const Projects = () => {
                   </div>
                   <a
                     className="orido_tm_full_link absolute inset-0 z-[5] soundcloude_link mfp-iframe audio"
-                    href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/471954807&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+                    href="#"
                   />
                 </div>
               </SwiperSlide>

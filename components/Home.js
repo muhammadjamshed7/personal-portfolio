@@ -97,12 +97,12 @@ const Home = ({ dark }) => {
         </a>
       </div>
       <div className="avatar absolute w-1/2 right-0 bottom-[-8px]">
-      <div className="img relative inline-block rounded-lg">
-          <img
-            className="max-w-[700px] max-h-[760px] "
-            src="assets/img/hero/12.jpg" 
-            alt
-          />
+      <div className="img relative inline-block overflow-hidden rounded-full w-[700px] h-[760px]">
+  <img
+    className="w-full h-full object-cover rounded-full"
+    src="assets/img/hero/12.jpg"
+    alt="hero image"
+  />
           <div className="video_button">
             <a
               className="popup-youtube"
