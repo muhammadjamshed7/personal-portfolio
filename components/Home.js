@@ -49,11 +49,11 @@ const Home = ({ dark }) => {
             <li className="mr-[20px]">
               <a
                 className="inline-block relative w-[56px] h-[56px] bg-[#F6F6F6] rounded-full transition-all duration-300"
-                href="#"
+                href="https://www.linkedin.com/in/muhammad-jamshed-%E2%9C%AA-7ab3b2198/"
               >
                 <img
                   className="svg absolute top-1/2 left-1/2 translate-y-[-50%] translate-x-[-50%] transition-all duration-300"
-                  src="assets/img/svg/social/be.svg"
+                  src="assets/img/svg/social/linked.svg"
                   alt
                 />
               </a>
@@ -61,11 +61,11 @@ const Home = ({ dark }) => {
             <li className="mr-[20px]">
               <a
                 className="inline-block relative w-[56px] h-[56px] bg-[#F6F6F6] rounded-full transition-all duration-300"
-                href="#"
+                href="https://github.com/muhammadjamshed7"
               >
                 <img
                   className="svg absolute top-1/2 left-1/2 translate-y-[-50%] translate-x-[-50%] transition-all duration-300"
-                  src="assets/img/svg/social/dribbble.svg"
+                  src="assets/img/svg/social/github.svg"
                   alt
                 />
               </a>
@@ -73,7 +73,7 @@ const Home = ({ dark }) => {
             <li>
               <a
                 className="inline-block relative w-[56px] h-[56px] bg-[#F6F6F6] rounded-full transition-all duration-300"
-                href="#"
+                href="https://www.instagram.com/jamshed_mehsud_/?hl=en"
               >
                 <img
                   className="svg absolute top-1/2 left-1/2 translate-y-[-50%] translate-x-[-50%] transition-all duration-300"
